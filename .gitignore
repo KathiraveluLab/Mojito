@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Metadata exclusion
+Agent.md
+claude.md
+AGENTS.md
+CLAUDE.md
+node_modules/
+
+_bmad
+.claude
+.codex
+.cursor
+.vscode
+_paper
