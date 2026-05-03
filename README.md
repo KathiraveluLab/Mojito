@@ -66,8 +66,6 @@ mojo build mojito_local_training.mojo
 
 ---
 
----
-
 ## Compliance
 
 - **GDPR:** Built with data minimization and purpose limitation at the core.
