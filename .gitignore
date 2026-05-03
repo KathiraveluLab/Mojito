@@ -219,3 +219,6 @@ _bmad
 .cursor
 .vscode
 _paper
+# pixi environments
+.pixi/*
+!.pixi/config.toml
