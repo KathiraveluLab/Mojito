@@ -69,10 +69,8 @@ mojo build mojito_local_training.mojo
 ## Compliance
 
 - **GDPR:** Built with data minimization and purpose limitation at the core.
-- **HIPAA/PCI-DSS:** Designed to eliminate the primary audit liability of data transit.
+- **Health Insurance Portability and Accountability Act (HIPAA):** Ensures patient privacy.
+- **Payment Card Industry Data Security Standard (PCI DSS):** Designed to eliminate the primary audit liability of data transit.
 
 ---
 
-## Documentation
-
-For more details on the design discussions and technical specifications, refer to the conversation logs and agent artifacts in the project framework.
